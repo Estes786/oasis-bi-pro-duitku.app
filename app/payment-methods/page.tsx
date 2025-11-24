@@ -11,7 +11,7 @@ export default function PaymentMethodsPage() {
             Metode Pembayaran yang Aman & Mudah
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Powered by Midtrans - Payment Gateway Terpercaya di Indonesia dengan PCI DSS Level 1 Certification
+            Powered by Duitku - Payment Gateway Terpercaya di Indonesia dengan PCI DSS Level 1 Certification
           </p>
         </div>
 
@@ -145,7 +145,7 @@ export default function PaymentMethodsPage() {
             </div>
             <div className="bg-blue-50 rounded-lg p-4">
               <h4 className="font-semibold text-blue-900 mb-2">🔒 Secure</h4>
-              <p className="text-sm text-blue-700">Protected by Midtrans security</p>
+              <p className="text-sm text-blue-700">Protected by Duitku security</p>
             </div>
           </div>
         </div>
@@ -184,7 +184,7 @@ export default function PaymentMethodsPage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Keamanan Pembayaran Terjamin</h2>
             <p className="text-xl text-gray-300">
-              Powered by Midtrans - Trusted by 50,000+ businesses in Indonesia
+              Powered by Duitku - Trusted by 50,000+ businesses in Indonesia
             </p>
           </div>
 
